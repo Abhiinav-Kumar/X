@@ -1,0 +1,110 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.Logo{
+
+    width: 500px;
+    height: 500px;
+    margin-left: 150px;
+    margin-top: 90px;
+}
+
+.container{
+    width: 650px;
+    height: 670px;
+    margin-left: 840px;
+    margin-top: -580px;
+    text-align: left;
+    padding-top: 28px;
+    background-color: rgb(0, 0, 0);
+}
+
+h1{
+    color: white;
+    font-size: 65px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+}
+
+h2{
+    color: white;
+    font-size: 35px;
+    font-family:  sans-serif;
+    font-weight: 800
+}
+
+.login{
+    background-color:white;
+    color:  #000000;
+    width: 295px;
+    height: 40px;
+    text-align: center;
+    border-radius: 50px;
+    border: #000000 solid 0.1px;
+    font: 1em sans-serif;
+    font-size: 16px;
+    padding-top: -1px;
+    margin-top: 10px;
+}
+
+h6{
+    margin-top: -23px;
+    font-size: 14px;
+    font-family: "Google Sans", arial, sans-serif;
+    font-weight: 500;
+    padding-left: 22px;
+}
+
+h5{
+    margin-top: -31px;
+    font-size: 14px;
+    font-family: "Google Sans", arial, sans-serif;
+    font-weight: 500;
+    padding-left: 15px;
+}
+
+.or{
+    padding-left: 130px;
+    color: #ffffffbb;
+    font-size: 12px;
+}
+
+.create{
+    background-color:rgb(29, 155, 240);
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: -3px;
+}
+
+.create:hover{
+    background-color: rgb(13, 95, 236);;
+}
+
+p{
+    width: 300px;
+    color: rgb(113, 118, 123);
+    font-size: 11px;
+    font-family: TwitterChirp, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+a{
+    color: rgb(29, 155, 240);
+    text-decoration:none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.sign{
+    background-color: black;
+    color: rgb(29, 155, 240);
+    border: 1px solid gray;
+    font-weight: 600;
+}
+
+.sign:hover{
+    background-color: rgb(255, 255, 255,.1);
+}
